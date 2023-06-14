@@ -621,3 +621,8 @@ for i in soz:
     if i == 1:
         if i > 1:
             print(soz)
+
+
+
+def dsas():
+    pass
